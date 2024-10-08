@@ -3,8 +3,6 @@ public  class imple_main {
 
  public static void main(String []args){
         //
-       System.out.println("simple main.....");
+       System.out.println("Berkan Ercan 230706307");
         }
 }
-
-
